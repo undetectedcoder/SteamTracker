@@ -55,9 +55,5 @@ erDiagram
         datetime last_checked
     }
 ```
-4. Зависимости(для установки - pip install -r requirements.txt):
-python-telegram-bot>=20.0
-beautifulsoup4>=4.9.3
-fake-useragent>=1.1.3
-aiohttp>=3.8.1
-sqlalchemy>=2.0.0
+4. Зависимости: для установки - pip install -r requirements.txt
+
